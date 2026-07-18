@@ -34,7 +34,7 @@ To finalize your investigation report and point the search in the right directio
     
 - **Cabinet Identifier:** The exact name of his OSIS cabinet.
     
-- **GitHub Handle:** The username of this current repository owner.
+- **GitHub Handle:** The username of its github account.
     
 
 ### Submission Format
